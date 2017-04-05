@@ -7,7 +7,7 @@ title: 一群小虾的个人网站
 subtitle:
 description: 我只要自己写得开心！慢慢突破中学生作文水平
 author: Ahan
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/geek0017/geek0017.github.io.git
+  repo: git@github.com:ahanQ/geek0017.github.io.git
   branch: master
